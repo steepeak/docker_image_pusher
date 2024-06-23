@@ -5,6 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9
-nastool/nas-tool:2.9.1
-nastools/nas-tools
-nastools/nas-tools:2.9.1
+sungamma/nas-tools:2.9.1
