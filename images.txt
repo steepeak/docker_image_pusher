@@ -1,1 +1,1 @@
-leonedit/nas-tools:2.9.1
+nastools/nas-tools:latest
