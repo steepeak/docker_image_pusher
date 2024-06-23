@@ -1,1 +1,1 @@
-nastools/nas-tools:latest
+Jackett
